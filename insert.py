@@ -1,2 +1,0 @@
-print("Krowa")
-print("Dupa")
